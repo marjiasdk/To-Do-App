@@ -8,3 +8,5 @@ This repository contains a simple To-Do App developed using React Native. The ap
 * Expo: A set of tools and libraries for developing and deploying React Native apps.
 
 ## License
+
+This repository is licensed under the MIT License. See the LICENSE file for more information.
