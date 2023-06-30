@@ -8,7 +8,8 @@ This repository contains a simple To-Do App developed using React Native. The ap
 * Expo: A set of tools and libraries for developing and deploying React Native apps.
 
 ## Demo Video
-[d](https://drive.google.com/file/d/1dZd0QqqKckZbYTPOuukGKZNWNQlMcOAZ/view?usp=drive_link)
+
+https://github.com/marjiasdk/To-Do-App/assets/113689930/aee9e5f2-7410-44af-9453-648d12b7809b
 
 ## License
 
