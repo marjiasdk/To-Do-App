@@ -9,7 +9,7 @@ This repository contains a simple To-Do App developed using React Native. The ap
 
 ## Demo Video
 
-https://github.com/marjiasdk/To-Do-App/assets/113689930/aee9e5f2-7410-44af-9453-648d12b7809b
+https://github.com/marjiasdk/To-Do-App/assets/113689930/e2c72ec7-86d1-4ce1-8d94-49d8d265a7d7
 
 ## License
 
